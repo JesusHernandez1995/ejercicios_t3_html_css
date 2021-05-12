@@ -1,0 +1,20 @@
+.titulo-principal{
+    background-color: #f4c453;
+}
+
+.titulo-secundario{
+    color: #5953f4;
+    font-size: 45px;
+}
+
+.food-details{
+    color: #ccc;
+}
+
+.lista{
+    list-style: none;
+}
+
+.title-section{
+    font-size: 18px;
+}
